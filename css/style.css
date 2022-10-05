@@ -1,0 +1,14 @@
+.nav-top {
+    width: 100%;
+    position: absolute;
+    z-index: 1;
+}
+.carousel-adjust {
+    height: 100vh;
+    overflow: hidden;
+}
+.award {
+    background-image: url(../image/memphis_3.png);
+    background-position: left bottom;
+    background-size: 100%;
+}
